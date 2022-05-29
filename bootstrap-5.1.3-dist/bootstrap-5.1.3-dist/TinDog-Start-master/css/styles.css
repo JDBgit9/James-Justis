@@ -1,26 +1,38 @@
 body {
-    font-family: 'Monserrat-Black', sans-serif;
+  font-family: "Monserrat-Black", sans-serif;
 }
 #title {
-background-color: #ff4c68;
-color: #fff;
+  background-color: #ff4c68;
+  color: #fff;
 }
 
 .container {
-    padding: 3% 15%;
+  padding: 3% 15%;
 }
 
 h1 {
-    font-family: 'Montserrat-Black', sans-serif;
-    font-size: 3rem;
-    line-height: 1.5;
-
+  font-family: "Montserrat-Black", sans-serif;
+  font-size: 3rem;
+  line-height: 1.5;
 }
 
 /* navbar */
 
+.navbar {
+   padding-bottom: 0 0 4.5rem; 
+}
+
 .navbar-brand {
-    font-family: 'Ubuntu';
-    font-size: 2.5rem;
-    font-weight: bold;
+  font-family: "Ubuntu";
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+.nav.item{
+    padding: 0 18px;
+}
+
+.nav-link {
+    font-size: 1.2rem;
+    font-family: "Monserrat-light", sans-serif;
 }
