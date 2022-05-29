@@ -11,11 +11,17 @@ body {
 }
 
 h1 {
-  font-family: "Montserrat-Black", sans-serif;
+  font-family: "Montserrat-Bold", sans-serif;
   font-size: 4rem;
   line-height: 1.5;
   padding-top: 50px;
  
+}
+
+
+h3 {
+   font-family: "Montserrat-Bold", sans-serif;
+   font-size: 1.5rem;
 }
 
 /* navbar */
@@ -73,3 +79,4 @@ h1 {
 .feature-box {
     text-align: center;
 }
+
