@@ -65,6 +65,8 @@ h1 {
 .heart {
     color: #ff4c68;
 }
-.feature-box {
+
+#features {
+    padding: 7% 15%;
 
 }
