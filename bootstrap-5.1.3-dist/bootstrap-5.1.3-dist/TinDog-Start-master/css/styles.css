@@ -12,8 +12,10 @@ body {
 
 h1 {
   font-family: "Montserrat-Black", sans-serif;
-  font-size: 3rem;
+  font-size: 4rem;
   line-height: 1.5;
+  padding-top: 50px;
+ 
 }
 
 /* navbar */
@@ -47,5 +49,6 @@ h1 {
 
 .title-image {
     width: 60%;
+    transform: rotate(25deg);
 }
 
