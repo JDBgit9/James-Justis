@@ -1,5 +1,9 @@
+body {
+    font-family: 'Monserrat-Black', sans-serif;
+}
 #title {
 background-color: #ff4c68;
+color: #fff;
 }
 
 .container {
