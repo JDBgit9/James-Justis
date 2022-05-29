@@ -36,3 +36,12 @@ h1 {
     font-size: 1.2rem;
     font-family: "Monserrat-light", sans-serif;
 }
+
+/* Download buttons */
+
+.download-button {
+    margin: 5% 3% 5% 0;
+}
+
+
+
