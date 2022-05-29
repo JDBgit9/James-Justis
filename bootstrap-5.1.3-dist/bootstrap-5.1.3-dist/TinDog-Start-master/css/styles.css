@@ -65,15 +65,28 @@ p {
 /* Features */
 
 .circle-check {
+    color: #ef8172;
+    margin-bottom: 1 rem;
+}
+
+.circle-check:hover {
     color: #ff4c68;
 }
 
 .bullseye {
+    color: #ef8172;
+    margin-bottom: 1 rem;
+}
+.bullseye:hover {
     color: #ff4c68;
 }
 
 .heart {
-    color: #ff4c68;
+    color: #ef8172;
+    margin-bottom: 1 rem;
+}
+.heart:hover {
+ color: #ff4c68;
 }
 
 #features {
