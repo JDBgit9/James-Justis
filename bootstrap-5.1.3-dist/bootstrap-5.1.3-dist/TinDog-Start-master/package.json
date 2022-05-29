@@ -4,9 +4,12 @@
   "description": "TinDog Starting Files",
   "main": "index.js",
   "scripts": {
-   "devStart": "nodemon server.js"
+    "devStart": "nodemon server.js"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.16"
+  }
 }
