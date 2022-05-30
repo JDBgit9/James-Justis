@@ -76,7 +76,7 @@ p {
 
 .circle-check {
     color: #ef8172;
-    margin-bottom: 1 rem;
+    margin-bottom: 1.5rem;
 }
 
 .circle-check:hover {
@@ -85,7 +85,7 @@ p {
 
 .bullseye {
     color: #ef8172;
-    margin-bottom: 1 rem;
+    margin-bottom: 1.5rem;
 }
 .bullseye:hover {
     color: #ff4c68;
@@ -93,7 +93,7 @@ p {
 
 .heart {
     color: #ef8172;
-    margin-bottom: 1 rem;
+    margin-bottom: 0rem;
 }
 .heart:hover {
  color: #ff4c68;
@@ -166,4 +166,11 @@ p {
     background-color: #ff4c68;
     height: 200px;
 }
+
+h3 {
+    font-family: "Montserrat-Bold", sans-serif;
+    font-size: 1.5rem;
+    color: #fff;
+}
+
 
