@@ -76,31 +76,14 @@ p {
 
 /* Features */
 
-.circle-check {
+.feature-box {
     color: #ef8172;
     margin-bottom: 1.5rem;
 }
 
-.circle-check:hover {
+.feature-box:hover {
     color: #ff4c68;
 }
-
-.bullseye {
-    color: #ef8172;
-    margin-bottom: 1.5rem;
-}
-.bullseye:hover {
-    color: #ff4c68;
-}
-
-.heart {
-    color: #ef8172;
-    margin-bottom: 0rem;
-}
-.heart:hover {
- color: #ff4c68;
-}
-
 
 .feature-title {
     font-size: 1.5rem;
