@@ -165,7 +165,7 @@ p {
 
 #cta {
     background-color: #ff4c68;
-    height: 400px;
+    height: 600px;
     padding: 7% 15%;
     text-align: center;
 }
@@ -190,6 +190,7 @@ p {
 
 .icon {
     margin: 20 10;
+    
 }
 
 @media (max-width: 1028px) {
