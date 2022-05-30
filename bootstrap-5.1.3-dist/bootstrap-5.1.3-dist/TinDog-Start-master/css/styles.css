@@ -167,10 +167,13 @@ p {
     height: 200px;
 }
 
-h3 {
-    font-family: "Montserrat-Bold", sans-serif;
-    font-size: 1.5rem;
+.foot {
+    font-family: "Montserrat-Black", sans-serif;
+    font-size: 2.5rem;
+    font-style: bold;
+    font-weight: 500;
     color: #fff;
+    text-align: center;
 }
 
 
