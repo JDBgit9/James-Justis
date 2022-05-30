@@ -148,6 +148,33 @@ p {
  padding: 3% 2%;
 }
 
+/* Call to Action */
+
+#cta {
+    background-color: #ff4c68;
+    height: 400px;
+    padding: 7% 15%;
+    text-align: center;
+}
+
+.cta-header {
+    font-family: "Montserrat-Black", sans-serif;
+    font-size: 3.5rem;
+    line-height: 1.5;
+    font-style: bold;
+    font-weight: 500;
+    color: #fff;
+
+}
+
+/* Footer Section */
+
+
+#footer {
+    padding: 7% 15%;
+}
+
+
 @media (max-width: 1028px) {
 
     #title {
@@ -160,23 +187,5 @@ p {
     }
 }
 
-/* Call to Action */
-
-#cta {
-    background-color: #ff4c68;
-    height: 400px;
-    padding: 7% 15%;
-    text-align: center;
-}
-
-.foot {
-    font-family: "Montserrat-Black", sans-serif;
-    font-size: 3.5rem;
-    line-height: 1.5;
-    font-style: bold;
-    font-weight: 500;
-    color: #fff;
-
-}
 
 
