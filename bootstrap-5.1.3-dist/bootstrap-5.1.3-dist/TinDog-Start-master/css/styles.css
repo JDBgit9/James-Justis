@@ -164,16 +164,19 @@ p {
 
 #cta {
     background-color: #ff4c68;
-    height: 200px;
+    height: 400px;
+    padding: 7% 15%;
+    text-align: center;
 }
 
 .foot {
     font-family: "Montserrat-Black", sans-serif;
-    font-size: 2.5rem;
+    font-size: 3.5rem;
+    line-height: 1.5;
     font-style: bold;
     font-weight: 500;
     color: #fff;
-    text-align: center;
+
 }
 
 
