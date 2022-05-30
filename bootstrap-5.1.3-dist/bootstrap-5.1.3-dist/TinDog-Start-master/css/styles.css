@@ -14,12 +14,7 @@ h1, h2, h3, h4, h5, h6 {
     font-family: "Montserrat-Bold", sans-serif;
 }
 
-h2 {
 
-    font-size: 3rem;
-    font-weight: bold;
-    line-height: 1.5;
-}
 
 h3 {
  
@@ -125,6 +120,12 @@ p {
     width: 10%;
     border-radius: 100%;
     margin: 20px;
+}
+
+.testimonial-text {
+    font-size: 3rem;
+    font-weight: bold;
+    line-height: 1.5;
 }
 
 .carousel-item {
